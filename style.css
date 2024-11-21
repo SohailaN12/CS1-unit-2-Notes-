@@ -1,1 +1,9 @@
+img {
+    width: 100px;
+}
 
+#absolute {
+    position: absolute;
+    top: 45px;
+    left: 50px;
+}
