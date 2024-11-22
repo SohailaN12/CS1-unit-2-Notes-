@@ -4,6 +4,49 @@ img {
 
 #absolute {
     position: absolute;
-    top: 45px;
+    top: 50px;
     left: 50px;
+    z-index: 4;
 }
+
+#container {
+    background-color: rgb(215, 188, 236);
+    display: inline-block;
+}
+
+#relative {
+    position: relative;
+    top: 20px;
+    left: 30px;
+    z-index: 5;
+}
+
+#fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
